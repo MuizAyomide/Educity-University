@@ -1,0 +1,3 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+path/to/large/file.mp4 filter=lfs diff=lfs merge=lfs -text
+src/assets/To.Your.Eternity.480P.S01.EP04.mp4[[:space:]]is[[:space:]]108.48[[:space:]]MB filter=lfs diff=lfs merge=lfs -text
