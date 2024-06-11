@@ -8,4 +8,9 @@ export default defineConfig({
       external: ['react-scroll'],
     },
   },
+  resolve: {
+    alias: {
+      'react-scroll': 'react-scroll/modules',
+    },
+  },
 })
